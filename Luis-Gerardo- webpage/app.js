@@ -1,7 +1,0 @@
-
-eventListeners();
-
-function eventListeners() {
-
-    
-}
